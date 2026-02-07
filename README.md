@@ -1,5 +1,7 @@
 # KyberCheck CLI Distribution
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-2ea44f.svg)](https://opensource.org/licenses/Apache-2.0)
+
 This repository is used for the distribution of pre-compiled KyberCheck binaries.
 
 ## 🚀 Fast Installation (Linux)
